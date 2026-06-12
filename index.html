@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JNTUH Exam Updates</title>
+    <link rel="stylesheet" href="2. style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">JNTUH Exam Updates</div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#notifications">Notifications</a></li>
+                <li><a href="#downloads">Downloads</a></li>
+                <li><a href="#notes">Notes</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><button id="theme-toggle" class="toggle-btn">🌙 Dark Mode</button></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="news">
+        <marquee>
+            🔥 JNTUH B.Tech Results Released | R22 Exam Notifications Available | Latest Time Tables Updated
+        </marquee>
+    </div>
+
+    <section class="hero" id="home">
+        <h1>JNTUH Exam Updates</h1>
+        <p>Results, Notifications, Notes & Important Questions</p>
+        <a href="#notifications" class="btn">Explore Updates</a>
+    </section>
+
+    <section id="search-section" style="background: #eef2f7; padding: 30px 20px; text-align: center;">
+        <input type="text" id="global-search" placeholder="🔍 Search notes, results, or notifications (e.g., Java, DBMS)..." style="width: 80%; max-width: 600px; padding: 12px; border-radius: 25px; border: 2px solid #002147; font-size: 16px;">
+    </section>
+
+    <section id="notifications">
+        <h2 class="section-title">Latest Notifications & Results</h2>
+        <div class="cards">
+            <div class="card fade">
+                <span class="badge notification">Notification</span>
+                <h3>B.Tech Exam Notification</h3>
+                <p>Regular and Supplementary R22/R18 Exams Released.</p>
+            </div>
+            <div class="card fade">
+                <span class="badge timetable">Timetable</span>
+                <h3>Time Table Released</h3>
+                <p>Download Latest Examination Schedule for 2-1, 3-1 B.Tech.</p>
+            </div>
+            <div class="card fade">
+                <span class="badge result">Result</span>
+                <h3>B.Tech 4-1 Results</h3>
+                <p>Check Latest Semester Advanced Supplementary Results.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="downloads">
+        <h2 class="section-title">Quick Downloads Central</h2>
+        <div style="overflow-x: auto; max-width: 900px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+            <table id="downloads-table" style="width: 100%; border-collapse: collapse; text-align: left;">
+                <thead>
+                    <tr style="background: #002147; color: white;">
+                        <th style="padding: 12px;">Document Title</th>
+                        <th style="padding: 12px;">Regulation</th>
+                        <th style="padding: 12px;">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="padding: 12px; border-bottom: 1px solid #ddd;">B.Tech 3-2 R22 Syllabus PDF</td>
+                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><span style="background:#e0e7ff; color:#4f46e5; padding:3px 8px; border-radius:4px; font-size:12px;">R22</span></td>
+                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><a href="#" class="download-link">⬇️ Download</a></td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 12px; border-bottom: 1px solid #ddd;">M.Tech Regular Academic Calendar</td>
+                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><span style="background:#f3e8ff; color:#9333ea; padding:3px 8px; border-radius:4px; font-size:12px;">R21</span></td>
+                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><a href="#" class="download-link">⬇️ Download</a></td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 12px; border-bottom: 1px solid #ddd;">Java Programming Important Questions</td>
+                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><span style="background:#e0e7ff; color:#4f46e5; padding:3px 8px; border-radius:4px; font-size:12px;">R22</span></td>
+                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><a href="#" class="download-link">⬇️ Download</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <section id="notes">
+        <h2 class="section-title">Study Notes Matrix</h2>
+        <div class="cards">
+            <div class="card fade">
+                <h3>Java Notes</h3>
+                <p>Complete Java Programming Notes Unit 1 to 5.</p>
+            </div>
+            <div class="card fade">
+                <h3>DBMS Notes</h3>
+                <p>Database Management Systems structural notes.</p>
+            </div>
+            <div class="card fade">
+                <h3>Computer Networks</h3>
+                <p>Unit Wise CN Notes Available for download.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2 class="section-title">Grievance & Contact Box</h2>
+        <div class="contact">
+            <form id="contact-form">
+                <input type="text" id="form-name" placeholder="Your Name" required>
+                <input type="email" id="form-email" placeholder="Your Email" required>
+                <textarea id="form-message" rows="5" placeholder="Enter your inquiry or issue here..." required></textarea>
+                <button type="submit">Submit Request</button>
+            </form>
+            <div id="form-response" style="margin-top:15px; display:none; padding:10px; border-radius:5px; text-align:center; font-weight:bold;"></div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 JNTUH Exam Updates | All Rights Reserved</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
