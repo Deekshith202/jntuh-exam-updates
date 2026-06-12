@@ -1,0 +1,85 @@
+# JNTUH R22 Grace Marks Update
+
+**Executive Summary:** As of June 2026, the JNTUH administration has not formally issued a notification on grace marks for students under the R22 (2022 batch) regulations.  Student groups have petitioned the university for parity – noting that grace marks (up to 0.5% of total aggregate) were recently approved for other batches (R18, R21, R23).  A JNTUH Registrar’s proceeding (Dec 10, 2025) indeed approved 0.5% grace marks for R22 (B.Tech/B.Pharm/BBA), but no official exam-branch circular has appeared yet.  In early June 2026, Telangana Today and Deccan Chronicle reported that students demanded the change. The registrar has “responded positively” and promised to discuss the issue with senior officials.  Key details on eligibility, calculation, and procedures are summarized below.
+
+## Official Status  
+- **Current Stance:**  No formal JNTUH announcement has been published specifically for R22 grace marks (as of 12 June 2026).  News reports (June 1, 2026) confirm students petitioned the registrar for grace marks parity.  
+- **Registrar Proceedings:**  A JNTUH Registrar’s Order (10 Dec 2025) explicitly **approved 0.5% grace marks on the total aggregate** for UG B.Tech/B.Pharm/BBA students under R22.  This order (originally concerning R21 regs) notes that “0.5% Grace Marks…[for]…students admitted under R18/R22 Regulations” were already approved.  This strongly suggests R22 batches should receive the same benefit as R18 students.  
+- **Pending Implementation:**  Despite the above, as of June 2026 no exam-branch circular has been released.  Press accounts say the registrar “assured that the matter would be discussed” and a decision will follow.  Until the university publishes a notification, students rely on these announcements and media reports. 
+
+## Eligibility Criteria  
+- **Eligible Students:**  Grace marks are intended for candidates who have *nearly* completed the degree but have failed a small number of subjects.  JNTUH policy (cited generally) states: if a student fails in *one or two subjects*, and by adding a few marks they can pass those subjects, grace marks may be granted.  In practice, this means the student must have earned all other required credits and only have failures in at most two courses that prevent graduation.  
+- **Eligible Programs:**  Although the Registrar’s order mentions B.Tech/B.Pharm/BBA specifically, student groups request the benefit for all R22 programs (B.Tech, B.Pharm, BBA, M.Tech, M.Pharm, MBA, MCA, etc.).  It appears JNTUH intends the 0.5% rule for all R22 undergraduate programs, matching prior use in R18 and R21 batches. (Official details for each course will come from a formal circular.)  
+- **Exclusions:**  Grace marks are *not* for general use. They apply only when the failed subject(s) are blocking the award of the degree, and only if the student would pass after adding those marks.  If a student has failed *more* than the allowed number of subjects, they cannot use grace marks to graduate.  
+
+## Calculation of Grace Marks  
+- **Grace Percentage:**  The approved rate for R22 students is **0.5% of the total maximum marks** across all semesters.  For example, in a B.Tech program with ~6000 aggregate marks, 0.5% equals ~30 marks (similarly, JNTUH applied 0.5% = 30 marks to R18 candidates).  (By contrast, the proposed R25 regulations would allow only 0.15% of total marks – about 10–12 marks – for up to three subjects.)  
+- **Application to Subjects:**  These grace marks are then **added to the student’s scores in the failed subjects**.  JNTUH rules allow the grace to clear up to the required passing threshold.  For instance, if a student is 5 marks short in one subject and 7 in another, granting 12 grace marks (≦0.5% of total) would let them pass both.  The marks are not applied to other subjects or extras.  
+- **Per-Subject vs. Aggregate:**  Officially, the grace is a pool of marks (up to 0.5% of total) to be distributed to failing subjects.  In past orders for R18, the Vice-Chancellor allowed these marks across any number of theory subjects.  However, JNTUH guidance generally limits failures to one or two subjects.  In all cases, the added marks cannot exceed the percentage limit (no “extra” beyond 0.5% of aggregate).  
+
+## Effect on Pass/CGPA  
+- **Passing Status:**  If grace marks are added and the student reaches the pass grade in the failed course(s), those subjects are deemed passed.  JNTUH’s exam-branch notes state that once grace is applied, a provisional degree certificate can be issued.  In other words, the student is considered to have passed all required subjects and will graduate without those backlogs.  
+- **CGPA Calculation:**  After adding grace marks, the final CGPA is recalculated as normal (since all grades are now passing).  JNTUH policy is that CGPA is printed only if the candidate passes all subjects. Thus, with the failures cleared, the student’s CGPA and percentage will include the improved scores.  (If a student still fails in any course beyond what grace could cover, they remain ineligible for the degree under current rules.)  
+- **Degree Award:**  Essentially, grace marks allow a “just-missed” student to meet the criteria for the degree.  The marks memo will show the granted marks, and the degree/PC is issued.  No special rollback occurs; the added marks simply count as earned in those subjects.
+
+## Application Process & Deadlines  
+- **Applying for Grace Marks:**  There is no separate grace-mark exam – instead, eligible students must *apply* to the Exam Branch through their college.  The standard procedure is: after final results, the student (via college principal) submits a letter requesting grace marks along with the **original marks memos** of the failed subjects.  This is usually done when applying for the Provisional Certificate.  (See JNTUH “Undertaking” forms for details – the student gives up future re-exams of those subjects.)  
+- **Fees:**  According to university fee tables, there is no additional fee for grace marks alone (unlike Tatkal schemes or duplicate certificates).  The main requirement is timely submission of paperwork to the exam branch.  
+- **Deadlines:**  No separate deadline is published yet for R22 grace marks. In prior cases (e.g. R18, R21) grace was granted at the end of the final semester.  We expect JNTUH will announce a deadline (likely shortly after final results release) by which R22 candidates must apply.  Students should watch official channels and college notices in the coming weeks.  
+- **Status:**  Until the university issues a circular, students can prepare the necessary documentation (marks memos, principal’s endorsement) so they can submit as soon as the rule is in force.
+
+## Sample Calculation Examples  
+- **Example 1:** A final-year R22 B.Tech student has an aggregate total of 6000 marks.  (0.5% of 6000 = 30 marks available.)  The student failed Subject A by 4 marks and Subject B by 3 marks.  Granting 7 grace marks (well under 30) would raise both to pass, allowing graduation.  
+- **Example 2:** An R22 student’s total is 6500.  Grace pool = 0.5%×6500 ≈ 32.5 (so max 32 marks).  The student failed three subjects by 5, 10, and 15 marks respectively (total shortage 30).  Since the school policy limits to two subjects, the student could only add grace to the two smallest gaps (5+10=15).  Adding 15 marks (≤32) clears those two subjects, but the third (15-short) remains failed.  The student would then still have one backlog.  
+- **Example 3:** Under the draft R25 rules, a similar student with 0.15% limit (≈10 marks) would not be able to clear both subjects above, since 15 needed >10 allowed.  This illustrates why R22’s 0.5% rule (if applied) is more generous than the proposed R25 scheme.
+
+## FAQs
+
+- **Q: Will R22 students definitely receive grace marks?**  
+  **A:** Not yet – no official notification is out.  However, JNTUH’s recent orders indicate R22 batches *should* get 0.5% grace marks. Student representatives have petitioned successfully, and the registrar has pledged to take a positive decision. We expect a circular soon.  
+
+- **Q: Who qualifies for grace marks under R22?**  
+  **A:** Only those who fail in *at most two* subjects needed for degree completion and have passed all other requirements.  A student missing a pass by just a few marks in one or two courses can get those marks added to clear them.  If a student has more failures, they do not qualify for grace.  
+
+- **Q: How many marks will be added?**  
+  **A:** Up to 0.5% of your total aggregate (e.g. ~30 marks for a typical B.Tech total).  These marks are then used to boost your failing subject(s) to a pass.  They cannot exceed the 0.5% limit.  
+
+- **Q: Does grace affect my CGPA?**  
+  **A:** Yes – after adding grace marks, the subjects are marked as passed, and your final CGPA is recalculated including the new marks.  The CGPA will reflect the improved scores.  (Note: JNTUH only publishes CGPA if all courses are passed.)  
+
+- **Q: How do I apply for grace marks?**  
+  **A:** You must apply through your college’s examination branch.  Prepare a request letter (approved by your principal) and submit it with the **original marks memos** of the failed subject(s).  This is typically done when applying for your Provisional Certificate.  No extra fee is charged for grace marks itself.  
+
+- **Q: What is the deadline to apply?**  
+  **A:** The university has not yet announced a deadline. In similar past cases, students applied right after final results. Keep an eye on official notices or ask your college exam cell as soon as a grace marks notification is released.  
+
+- **Q: How does this compare to older and future regs?**  
+  **A:** The R22 rule (0.5% of total) is similar to what was extended to R18 and R21.  Under the upcoming R25 regulations (draft), grace is limited to 0.15% of total and up to three subjects, which is stricter.  (There is no “R20” regulation in JNTUH; older JNTUH batches used a 0.5% rule when granted.)  
+
+## Timeline of R22 Grace Marks Events
+
+```mermaid
+timeline
+    title R22 Grace Marks - Key Dates
+    2025-12 : Registrar’s order approves 0.5% grace marks for R22 batch  
+    2026-06 : SPF-led students petition JNTUH for R22 grace marks : Registrar assures decision soon  
+```
+
+## Comparison: R22 vs R25 (vs R18) Regulations
+
+| Regulation   | Grace Marks Allowed    | Max Marks (approx.) | Max Subjects | Notes                                                 |
+|--------------|------------------------|---------------------|--------------|-------------------------------------------------------|
+| **R22** (2022, JNTUH) | 0.5% of total aggregate | ~30 (for ~6000 total) | ≤2 subjects (to clear degree) | Approved by Registrar (Dec 2025) – official circular awaited. |
+| **R25** (2025 draft, JNTUH) | 0.15% of total | ~10–12 (for ~6000 total) | ≤3 subjects | Proposed in new draft regs; not yet enacted.             |
+| **R18** (2018, JNTUH) | 0.5% of total | 30 (regular), 23 (lateral) | Any theory subjects (granted) | Vice-Chancellor approved (Dec 2023) for outgoing R18 students. |
+
+*(“Max Marks” estimates assume a 6000–6500 total. R18 values cited from university orders; R25 draft cites actual regulation.)*  
+
+## SEO-Friendly Snippet
+
+**Headline:** *“JNTUH R22 Grace Marks: Update & Eligibility”*
+
+**Summary:** *As of June 2026, R22 (2022 batch) students at JNTUH await an official grace marks notification.  University records (Registrar’s Order, Dec 2025) indicate R22 undergrads should get grace marks up to 0.5% of total, but the final implementation is pending. Students have petitioned for this benefit to match other batches. We will update when JNTUH issues a circular.*  
+
+**Canonical Source:** Telangana Today (June 1, 2026) – *“SPF urges JNTU-Hyderabad to extend grace marks to R22 students”*.  
+
