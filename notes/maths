@@ -1,0 +1,54 @@
+Define Matrix Rank and explain how to find the rank of a matrix using echelon form.
+Determine the rank of a matrix using normal form.
+Explain the Gauss-Jordan Method to find the inverse of a non-singular matrix.
+Find the inverse of a non-singular matrix using the Gauss-Jordan method.
+Solve a system of Homogeneous Linear Equations.
+Solve a system of Non-Homogeneous Linear Equations.
+Discuss the consistency of a system of linear equations using matrix rank.
+State and explain the conditions for the existence of unique, infinite, and no solutions to a system of linear equations.
+Explain the Gauss-Seidel Iteration Method for solving simultaneous equations.
+Solve a system of linear equations using the Gauss-Seidel iteration method.
+unit-2 
+Define Linear Transformation and Orthogonal Transformation.
+Define Eigenvalue and Eigenvector and explain their properties.
+Find the eigenvalues and eigenvectors of a given matrix.
+Explain the process of Matrix Diagonalization.
+State and apply the Cayley-Hamilton Theorem.
+Find the inverse of a matrix using the Cayley-Hamilton theorem.
+Find higher powers of a matrix using the Cayley-Hamilton theorem.
+Define a Quadratic Form and determine its nature (positive definite, negative definite, indefinite).
+Reduce a quadratic form to canonical form using orthogonal transformation.
+Explain the significance and applications of eigenvalues, eigenvectors, and quadratic forms in engineering and data analysis.
+UNIT-3
+Define Limit of a Function and Continuity of a Function and explain their properties.
+State and explain Rolle's Theorem with geometrical interpretation.
+State and explain Lagrange's Mean Value Theorem with geometrical interpretation and applications.
+State and explain Cauchy's Mean Value Theorem.
+Verify Rolle’s theorem for a given function.
+Verify Lagrange’s Mean Value Theorem for a given function and find the corresponding value of c.
+Apply Cauchy’s Mean Value Theorem to suitable functions.
+Expand a function using Taylor Series.
+Explain the steps involved in tracing curves in Cartesian coordinates.
+Trace curves in Cartesian coordinates by identifying symmetry, intercepts, tangents, and asymptotes.
+Related important questions
+UNIT-4
+Define limits and continuity for functions of several variables and explain their significance.
+Define Partial Differentiation and solve basic problems.
+State and prove Euler's Theorem for Homogeneous Functions and explain its applications.
+Define and explain the Total Derivative.
+Define the Jacobian and discuss its properties.
+Explain Functional Dependence and Independence using Jacobians.
+Find the Jacobian of a given transformation.
+Determine whether functions are functionally dependent or independent.
+Find maxima and minima of functions of two variables and three variables.
+Explain the Method of Lagrange Multipliers and solve constrained maxima and minima problems.
+UNIT-5Define Double Integral and explain its evaluation in Cartesian coordinates.
+Evaluate double integrals in Polar Coordinate System.
+Explain the procedure for change of order of integration in Cartesian coordinates.
+Explain change of variables for double integrals from Cartesian to polar coordinates using the Jacobian.
+Define Triple Integral and explain its evaluation.
+Evaluate triple integrals in Cartesian coordinates.
+Explain change of variables for triple integrals from Cartesian to Cylindrical Coordinate System and Spherical Coordinate System.
+Find the area of a plane region using double integrals.
+Find the volume of a solid using triple integrals.
+Compare Cartesian, polar, cylindrical, and spherical coordinate systems and state when each is most convenient.
