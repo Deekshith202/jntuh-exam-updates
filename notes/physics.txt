@@ -1,0 +1,52 @@
+Applied Physics  Top 10 Most Repeated Questions (Very High Probability) | | R22 JNTUH Important Questions
+Explain intrinsic and extrinsic semiconductors with energy band diagrams.
+Derive the Hall effect and explain the determination of Hall coefficient and carrier concentration.
+Differentiate between direct band gap and indirect band gap semiconductors with suitable examples.
+Explain the construction, working principle, and V-I characteristics of a P-N junction diode.
+Explain the construction, working principle, and breakdown characteristics of a Zener diode.
+Explain the construction, operation, and characteristics of a bipolar junction transistor (BJT).
+Describe the structure, materials, working principle, and characteristics of an LED.
+Explain the construction and operation of a PIN diode and its applications.
+Explain the structure and working principle of an avalanche photodiode (APD).
+Explain the construction, working principle, characteristics, and applications of solar cells.
+xplain blackbody radiation and derive Planck’s radiation law.
+Explain the photoelectric effect and derive Einstein’s photoelectric equation.
+Describe the Davisson and Germer experiment and explain its significance.
+State and explain Heisenberg uncertainty principle with applications.
+Derive the time independent Schrödinger wave equation and explain its physical significance.
+Solve the particle in a one-dimensional potential box and obtain the energy eigenvalues and eigenfunctions.
+Explain free electron theory (Drude-Lorentz and Sommerfeld models) and discuss their merits and limitations.
+Explain Fermi-Dirac distribution and its importance in solids.
+Describe the Kronig-Penney model and explain the origin of energy bands using the E-K diagram.
+Classify solids into conductors, semiconductors, and insulators based on band theory.
+Define dielectric materials and explain the different types of polarization.
+Explain ferroelectric, piezoelectric, and pyroelectric materials with their applications.
+Describe the construction and working principle of liquid crystal displays (LCD) and crystal oscillators.
+Explain hysteresis and discuss the significance of the hysteresis loop.
+Differentiate between soft magnetic materials and hard magnetic materials with applications.
+Explain magnetostriction and magnetoresistance with practical applications.
+Describe bubble memory devices, magnetic field sensors, and multiferroic materials.
+Explain the conductivity of liquid and solid electrolytes.
+Discuss superionic conductors and materials/electrolytes used for super capacitors.
+Explain rechargeable ion batteries and solid fuel cells with their working principle
+Define nanoscale and explain the concept of quantum confinement in nanomaterials.
+Explain the significance of surface-to-volume ratio in nanomaterials.
+Describe bottom-up fabrication techniques: sol-gel method, precipitation method, and combustion method.
+Explain the top-down fabrication technique of ball milling.
+Describe Physical Vapor Deposition (PVD) and its applications.
+Explain Chemical Vapor Deposition (CVD) and compare it with PVD.
+Explain the principle and applications of X-ray Diffraction (XRD).
+Describe the working principle and applications of Scanning Electron Microscopy (SEM).
+Explain the working principle and applications of Transmission Electron Microscopy (TEM).
+Discuss the important applications of nanomaterials in engineering and technology.
+spontaneous emission, and stimulated emission).
+Derive Einstein coefficients and explain the relations between them.
+Explain the principle of lasing action and the different pumping methods used in lasers.
+Describe the construction, working principle, energy level diagram, and applications of Ruby Laser.
+Explain the construction, working principle, and applications of He-Ne Laser.
+Describe the construction, working principle, and applications of CO2 Laser, Nd:YAG Laser, and Semiconductor Laser.
+Discuss the important applications of lasers in engineering, medicine, and communication.
+Explain the principle of total internal reflection and the construction of an optical fiber.
+Derive acceptance angle and numerical aperture of an optical fiber.
+Classify optical fibers, explain losses in optical fibers, and discuss optical fiber communication system and applications.
+all these questtions will be be there in the website also 
