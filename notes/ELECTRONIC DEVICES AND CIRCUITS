@@ -1,0 +1,81 @@
+ELECTRONIC DEVICES AND CIRCUITS (EC104ES) — All 5 Units
+Unit 1: Diode Characteristics and Applications
+Explain the construction and operation of the PN Junction Diode.
+Draw and explain the I–V characteristics of a PN junction diode.
+Define Diode Resistance and explain static and dynamic resistance.
+Explain Junction Capacitance and diffusion capacitance.
+Discuss Diode Models: ideal, simplified, and piecewise linear models.
+Draw and explain the working of the Half-Wave Rectifier.
+Draw and explain the working of the Full-Wave Rectifier using center-tap configuration.
+Draw and explain the working of the Bridge Rectifier.
+Compare half-wave and full-wave rectifiers.
+Explain the role of a Capacitor Filter in rectifier circuits.
+Define Clipper Circuit and explain its types.
+Define Clamper Circuit and explain positive and negative clampers.
+Draw and explain the I–V characteristics of the Zener Diode.
+Explain the use of a Zener diode as a Voltage Regulator.
+Compare ordinary diodes and Zener diodes with suitable applications.
+Unit 2: Bipolar Junction Transistor (BJT)
+Explain the structure and working principle of the Bipolar Junction Transistor (BJT).
+Describe the operation of NPN Transistor and PNP Transistor.
+Explain the current components in a BJT and the concept of transistor action.
+Define the current gains Alpha (α) and Beta (β) and derive the relation between them.
+Draw and explain the circuit configuration of the Common Base (CB) Configuration.
+Draw and explain the input and output characteristics of the Common Base configuration.
+Draw and explain the circuit configuration of the Common Emitter (CE) Configuration.
+Draw and explain the input and output characteristics of the Common Emitter configuration.
+Draw and explain the circuit configuration of the Common Collector (CC) Configuration.
+Draw and explain the input and output characteristics of the Common Collector configuration.
+Compare CB, CE, and CC configurations with respect to current gain, voltage gain, input resistance, and output resistance.
+Define Hybrid Parameters (h-Parameters) and explain their significance.
+Explain the determination of h-parameters from transistor characteristics.
+Derive the relationships among transistor currents IE, IB, and IC.
+Discuss the applications of different BJT configurations in electronic circuits.
+Unit 3: BJT Biasing
+Explain the need for BJT Biasing in transistor circuits.
+Define Operating Point (Q-Point) and explain its significance.
+Explain the concept of DC Load Line.
+Draw and explain the determination of the Q-point using the load line method.
+Explain the Fixed Bias Circuit and derive the expressions for collector current and stability factor.
+Explain the Collector-to-Base Bias and discuss its advantages.
+Explain the Voltage Divider Bias and derive the expressions for the operating point.
+Compare fixed bias, collector-to-base bias, and voltage divider bias.
+Define Stability Factor.
+Derive the stability factor for different biasing circuits.
+Explain the phenomenon of Thermal Runaway.
+Discuss methods to prevent thermal runaway in transistor circuits.
+Explain the role of emitter resistance in improving bias stability.
+Solve numerical problems on operating point and stability factor calculations.
+Which biasing technique provides the best stability and why?
+Unit 4: Transistor Amplifiers
+Explain the operation of a Small-Signal Amplifier using a transistor.
+Discuss the transistor as a small-signal amplifier and explain the principle of amplification.
+Define the h-Parameter Equivalent Circuit and explain its components.
+Explain the meaning and significance of hᵢₑ, hᵣₑ, h𝒻ₑ, and hₒₑ parameters in transistor analysis.
+Derive the current gain, voltage gain, input impedance, and output impedance of a Common Emitter Amplifier using h-parameters.
+Analyze the Common Base Amplifier using h-parameters.
+Analyze the Common Collector Amplifier using h-parameters.
+Compare CE, CB, and CC amplifiers based on gain and impedance characteristics.
+Explain the Approximate CE Model.
+Derive the voltage gain of a CE amplifier without an Emitter Bypass Capacitor.
+Derive the voltage gain of a CE amplifier with an emitter bypass capacitor.
+Explain the effect of emitter resistance and bypass capacitor on amplifier gain and stability.
+Draw the AC equivalent circuit of a CE amplifier and explain each component.
+Solve numerical problems on h-parameter amplifier analysis.
+Discuss the practical applications of transistor amplifiers in electronic systems.
+Unit 5: Special Purpose Diodes, FETs and Advanced Devices
+Explain the principle of operation and applications of the Silicon Controlled Rectifier (SCR).
+Draw and explain the V–I characteristics of the Tunnel Diode.
+Explain the construction, working, and applications of the Varactor Diode.
+Describe the operation and uses of the Photodiode.
+Explain the construction, working principle, and applications of the Solar Cell.
+Explain the construction, characteristics, and applications of the Light-Emitting Diode (LED).
+Discuss the features and applications of the Schottky Diode.
+Explain the structure and operation of the Junction Field-Effect Transistor (JFET).
+Draw and explain the drain and transfer characteristics of a JFET.
+Explain the structure, operation, and characteristics of the Metal-Oxide-Semiconductor Field-Effect Transistor (MOSFET).
+Differentiate between Enhancement-Mode MOSFET and Depletion-Mode MOSFET.
+Explain the applications of MOSFETs in switching and amplification circuits.
+Compare JFET and MOSFET characteristics.
+Discuss the advantages of FETs over BJTs.
+Explain the role of advanced semiconductor devices in modern electronic systems.
