@@ -1,165 +1,148 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JNTUH Exam Updates</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JNTUH Exam Updates</title>
+<link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-    <header>
-        <div class="logo">JNTUH Exam Updates</div>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#notifications">Notifications</a></li>
-                <li><a href="#downloads">Downloads</a></li>
-                <li><a href="#notes">Notes</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li><button id="theme-toggle" class="toggle-btn">🌙 Dark Mode</button></li>
-            </ul>
-        </nav>
-    </header>
+<header>
+    <div class="logo">🎓 JNTUH Exam Updates</div>
 
-    <div class="news">
-        <marquee>
-            🔥 JNTUH B.Tech Results Released | R22 Exam Notifications Available | Latest Time Tables Updated
-        </marquee>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#notifications">Notifications</a></li>
+            <li><a href="#notes">Notes</a></li>
+            <li><a href="#results">Results</a></li>
+            <li><a href="#syllabus">Syllabus</a></li>
+            <li><a href="#contact">Contact</a></li>
+
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+            <li><a href="disclaimer.html">Disclaimer</a></li>
+        </ul>
+    </nav>
+
+    <button id="darkModeBtn">🌙</button>
+</header>
+
+<marquee>
+🔥 Latest JNTUH Results | Important Questions | Previous Papers | Notifications
+</marquee>
+
+<section id="home" class="hero">
+    <h1>Welcome to JNTUH Exam Updates</h1>
+    <p>
+        Notes, Important Questions, Results,
+        Previous Papers and Syllabus in One Place
+    </p>
+</section>
+
+<section id="notifications">
+    <h2>Latest Notifications</h2>
+
+    <div class="card">
+        <h3>R25 Important Questions Released</h3>
+        <p>Download latest materials.</p>
     </div>
 
-    <section class="hero" id="home">
-        <h1>JNTUH Exam Updates</h1>
-        <p>Results, Notifications, Notes & Important Questions</p>
-        <a href="#notifications" class="btn">Explore Updates</a>
-    </section>
+    <div class="card">
+        <h3>Semester Results Updated</h3>
+        <p>Check your results online.</p>
+    </div>
+</section>
 
-    <section id="search-section" style="background: #eef2f7; padding: 30px 20px; text-align: center;">
-        <input type="text" id="global-search" placeholder="🔍 Search notes, results, or notifications (e.g., Java, DBMS)..." style="width: 80%; max-width: 600px; padding: 12px; border-radius: 25px; border: 2px solid #002147; font-size: 16px;">
-    </section>
+<section id="notes">
+    <h2>📚 JNTUH Important Questions & Notes</h2>
 
-    <section id="notifications">
-        <h2 class="section-title">Latest Notifications & Results</h2>
-        <div class="cards">
-            <div class="card fade">
-                <span class="badge notification">Notification</span>
-                <h3>B.Tech Exam Notification</h3>
-                <p>Regular and Supplementary R22/R18 Exams Released.</p>
-            </div>
-            <div class="card fade">
-                <span class="badge timetable">Timetable</span>
-                <h3>Time Table Released</h3>
-                <p>Download Latest Examination Schedule for 2-1, 3-1 B.Tech.</p>
-            </div>
-            <div class="card fade">
-                <span class="badge result">Result</span>
-                <h3>B.Tech 4-1 Results</h3>
-                <p>Check Latest Semester Advanced Supplementary Results.</p>
-            </div>
+    <div class="cards">
+
+        <div class="card">
+            <h3>Applied Physics</h3>
+            <a href="notes/physics.txt" target="_blank">View Notes</a>
+            <a href="notes/physics.txt" download>Download</a>
         </div>
-    </section>
 
-    <section id="downloads">
-        <h2 class="section-title">Quick Downloads Central</h2>
-        <div style="overflow-x: auto; max-width: 900px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
-            <table id="downloads-table" style="width: 100%; border-collapse: collapse; text-align: left;">
-                <thead>
-                    <tr style="background: #002147; color: white;">
-                        <th style="padding: 12px;">Document Title</th>
-                        <th style="padding: 12px;">Regulation</th>
-                        <th style="padding: 12px;">Action</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td style="padding: 12px; border-bottom: 1px solid #ddd;">B.Tech 3-2 R22 Syllabus PDF</td>
-                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><span style="background:#e0e7ff; color:#4f46e5; padding:3px 8px; border-radius:4px; font-size:12px;">R22</span></td>
-                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><a href="#" class="download-link">⬇️ Download</a></td>
-                    </tr>
-                    <tr>
-                        <td style="padding: 12px; border-bottom: 1px solid #ddd;">M.Tech Regular Academic Calendar</td>
-                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><span style="background:#f3e8ff; color:#9333ea; padding:3px 8px; border-radius:4px; font-size:12px;">R21</span></td>
-                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><a href="#" class="download-link">⬇️ Download</a></td>
-                    </tr>
-                    <tr>
-                        <td style="padding: 12px; border-bottom: 1px solid #ddd;">Java Programming Important Questions</td>
-                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><span style="background:#e0e7ff; color:#4f46e5; padding:3px 8px; border-radius:4px; font-size:12px;">R22</span></td>
-                        <td style="padding: 12px; border-bottom: 1px solid #ddd;"><a href="#" class="download-link">⬇️ Download</a></td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-    </section>
-
-    <section id="notes">
-        <h2 class="section-title">JNTUH IMP QUESTIONS 1-1 & 1-2 R25 </h2>
-        <div class="cards">
-            <div class="card fade">
-                <h3>Applied physiscs </h3>
-                <p>important materials </p>
-                 <a href="notes/physics.txt" class="btn" target="_blank">
-        View Notes
-    </a>
-
-    <a href="notes/physics.txt" class="btn" download>
-        Download Notes
-    </a>
-            </div>
-            <div class="card fade">
-                <h3>DBMS Notes</h3>
-                <p>Database Management Systems structural notes.</p>
-            </div>
-            <div class="card fade">
-                <h3>Computer Networks</h3>
-                <p>Unit Wise CN Notes Available for download.</p>
-            </div>
-        </div>
-    </section>
-     <!-- Maths -->
-        <div class="card fade">
+        <div class="card">
             <h3>Engineering Mathematics</h3>
-            <p>Important questions and materials</p>
-
-            <a href="notes/maths" class="btn" target="_blank">
-                View Notes
-            </a>
-
-            <a href="notes/maths" class="btn" download>
-                Download Notes
-            </a>
-             <!-- Chemistry -->
-    <div class="card fade">
-        <h3>Engineering Chemistry</h3>
-        <p>Important questions and study materials.</p>
-
-        <a href="notes/chemistry" class="btn" target="_blank">View Notes</a>
-        <a href="notes/chemistry" class="btn" download>Download Notes</a>
-    </div>
-              <div class="card fade">
-        <h3>notes/ELECTRONIC DEVICES AND CIRCUITS</h3>
-        <p>Important questions and study materials.</p>
-
-        <a href="ELECTRONIC DEVICES AND CIRCUITS" class="btn" target="_blank">View Notes</a>
-        <a href="notes/ELECTRONIC DEVICES AND CIRCUITS" class="btn" download>Download Notes</a>
-    </div>
-
-    <section id="contact">
-        <h2 class="section-title">Grievance & Contact Box</h2>
-        <div class="contact">
-            <form id="contact-form">
-                <input type="text" id="form-name" placeholder="Your Name" required>
-                <input type="email" id="form-email" placeholder="Your Email" required>
-                <textarea id="form-message" rows="5" placeholder="Enter your inquiry or issue here..." required></textarea>
-                <button type="submit">Submit Request</button>
-            </form>
-            <div id="form-response" style="margin-top:15px; display:none; padding:10px; border-radius:5px; text-align:center; font-weight:bold;"></div>
+            <a href="notes/maths" target="_blank">View Notes</a>
+            <a href="notes/maths" download>Download</a>
         </div>
-    </section>
 
-    <footer>
-        <p>© 2026 JNTUH Exam Updates | All Rights Reserved</p>
-    </footer>
+        <div class="card">
+            <h3>Engineering Chemistry</h3>
+            <a href="notes/chemistry" target="_blank">View Notes</a>
+            <a href="notes/chemistry" download>Download</a>
+        </div>
 
-    <script src="script.js"></script>
+        <div class="card">
+            <h3>Electronic Devices & Circuits</h3>
+            <a href="notes/ELECTRONIC%20DEVICES%20AND%20CIRCUITS" target="_blank">View Notes</a>
+            <a href="notes/ELECTRONIC%20DEVICES%20AND%20CIRCUITS" download>Download</a>
+        </div>
+
+    </div>
+</section>
+
+<section id="results">
+    <h2>Results</h2>
+    <button>Check Results</button>
+</section>
+
+<section id="syllabus">
+    <h2>Syllabus</h2>
+    <div class="card">R25 Syllabus</div>
+    <div class="card">R22 Syllabus</div>
+</section>
+
+<section>
+    <h2>Previous Papers</h2>
+    <div class="card">Physics Previous Papers</div>
+    <div class="card">Chemistry Previous Papers</div>
+    <div class="card">Mathematics Previous Papers</div>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+
+    <form>
+        <input type="text" placeholder="Your Name">
+        <br><br>
+
+        <input type="email" placeholder="Your Email">
+        <br><br>
+
+        <textarea rows="5" placeholder="Message"></textarea>
+        <br><br>
+
+        <button type="submit">Send</button>
+    </form>
+</section>
+
+<footer>
+
+    <h3>JNTUH Exam Updates</h3>
+
+    <p>
+        Notes | Results | Previous Papers | Important Questions
+    </p>
+
+    <a href="about.html">About Us</a> |
+    <a href="contact.html">Contact Us</a> |
+    <a href="privacy.html">Privacy Policy</a> |
+    <a href="disclaimer.html">Disclaimer</a>
+
+    <p>© 2026 JNTUH Exam Updates</p>
+
+</footer>
+
+<script src="script.js"></script>
+
 </body>
 </html>
+```
